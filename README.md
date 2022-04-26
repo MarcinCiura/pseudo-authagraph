@@ -1,0 +1,1 @@
+[See this blog post](https://marcinciura.wordpress.com/2016/11/20/authagraph/)
